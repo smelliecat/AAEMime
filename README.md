@@ -53,6 +53,15 @@ If you use this project in your research,
 
 please kindly cite as:
 ```
+@misc{sandoval2025llmmimicaae,
+      title={My LLM might Mimic AAE -- But When Should it?}, 
+      author={Sandra C. Sandoval and Christabel Acquaye and Kwesi Cobbina and Mohammad Nayeem Teli and Hal Daumé III},
+      year={2025},
+      eprint={2502.04564},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2502.04564}, 
+}
 ```
 
 and also please cite the following sources:
