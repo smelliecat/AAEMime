@@ -6,25 +6,8 @@ A project for analyzing, and generating text responses using LLMs with a focus o
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face%20Collection-blue)](https://huggingface.co/collections/kweCobi/aaemine-67aa4f38ad0860d669105f41)
 [![arXiv](https://img.shields.io/badge/arXiv-2502.04564-b31b1b.svg)](https://arxiv.org/abs/2502.04564)
 ## **Abstract**
-We examine the representation of African American English (AAE) in large language
-models (LLMs), exploring (a) the perceptions
-Black Americans have of how effective these
-technologies are at producing authentic AAE,
-and (b) in what contexts Black Americans find
-this desirable. Through both a survey of Black
-Americans (n= 104) and annotation of LLM-
-produced AAE by Black Americans (n= 228),
-we find that Black Americans favor choice and
-autonomy in determining when AAE is appro-
-priate in LLM output. They tend to prefer that
-LLMs default to communicating in Mainstream
-U.S. English in formal settings, with greater in-
-terest in AAE production in less formal settings.
-When LLMs were appropriately prompted and
-provided in context examples, our participants
-found their outputs to have a level of AAE
-authenticity on par with transcripts of Black
-American speech. 
+We examine the representation of African American English (AAE) in large language models (LLMs), exploring (a) the perceptions Black Americans have of how effective these technologies are at producing authentic AAE, and (b) in what contexts Black Americans find this desirable. Through both a survey of Black Americans (n= 104) and annotation of LLM-produced AAE by Black Americans (n= 228), we find that Black Americans favor choice and autonomy in determining when AAE is appropriate in LLM output. They tend to prefer that LLMs default to communicating in Mainstream U.S. English in formal settings, with greater interest in AAE production in less formal settings. When LLMs were appropriately prompted and provided in context examples, our participants found their outputs to have a level of AAE authenticity on par with transcripts of Black American speech. 
+
 ## **Setup**
 To set up the project environment, follow these steps:
 
