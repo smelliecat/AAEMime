@@ -49,7 +49,7 @@ This script:
 
 Citation
 
-If you use this project in your research, 
+If you use this project code in your research, 
 
 please kindly cite as:
 ```
@@ -92,13 +92,6 @@ AAE Datasets
     title = {Racial Disparity in Natural Language Processing: A Case Study of Social Media African-American English},
     booktitle = {Proceedings of the Fairness, Accountability, and Transparency in Machine Learning},
     year = {2017}
-    }
-
-    @article{Hu2022LoRA,
-    author = {Hu, Edward J. and Shen, Yelong and Wallis, Phillip and Allen-Zhu, Zeyuan and Li, Lu and Wang, Shean and Chen, Weizhu},
-    title = {LoRA: Low-Rank Adaptation of Large Language Models},
-    journal = {arXiv preprint arXiv:2106.09685},
-    year = {2022}
     }
 ```
 ### ***Acknowledgments***
