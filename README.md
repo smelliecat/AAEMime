@@ -3,6 +3,9 @@
 A project for analyzing, and generating text responses using LLMs with a focus on **African American English (AAE)**.
 
 ---
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face%20Collection-blue)](https://huggingface.co/collections/kweCobi/aaemine-67aa4f38ad0860d669105f41)
+[![arXiv](https://img.shields.io/badge/arXiv-2502.04564-b31b1b.svg)](https://arxiv.org/abs/2502.04564)
+## **Abstract**
 
 ## **Setup**
 To set up the project environment, follow these steps:
